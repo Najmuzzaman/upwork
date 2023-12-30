@@ -1,7 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-
 #define MAX_COURSES 100
 #define MAX_STUDENTS 1000
 #define MAX_HALLS 50
